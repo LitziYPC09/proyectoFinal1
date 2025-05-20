@@ -1,0 +1,19 @@
+D:\Escritorio\ProyectoFinal I\obj\Debug\ProyectoFinal I.csproj.AssemblyReference.cache
+D:\Escritorio\ProyectoFinal I\obj\Debug\ProyectoFinal_I.Properties.Resources.resources
+D:\Escritorio\ProyectoFinal I\obj\Debug\ProyectoFinal I.csproj.GenerateResource.cache
+D:\Escritorio\ProyectoFinal I\obj\Debug\ProyectoFinal I.csproj.CoreCompileInputs.cache
+D:\Escritorio\ProyectoFinal I\bin\Debug\ProyectoFinal I.exe.config
+D:\Escritorio\ProyectoFinal I\bin\Debug\ProyectoFinal I.exe
+D:\Escritorio\ProyectoFinal I\bin\Debug\ProyectoFinal I.pdb
+D:\Escritorio\ProyectoFinal I\obj\Debug\ProyectoFinal I.exe
+D:\Escritorio\ProyectoFinal I\obj\Debug\ProyectoFinal I.pdb
+D:\Escritorio\ProyectoFinal I\bin\Debug\Newtonsoft.Json.dll
+D:\Escritorio\ProyectoFinal I\bin\Debug\Newtonsoft.Json.xml
+D:\Escritorio\ProyectoFinal I\obj\Debug\Proyecto.3DEF9EBE.Up2Date
+D:\Escritorio\ProyectoFinal I\bin\Debug\Xceed.Document.NET.dll
+D:\Escritorio\ProyectoFinal I\bin\Debug\Xceed.Drawing.NET.dll
+D:\Escritorio\ProyectoFinal I\bin\Debug\Xceed.Words.NET.dll
+D:\Escritorio\ProyectoFinal I\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Escritorio\ProyectoFinal I\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Escritorio\ProyectoFinal I\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Escritorio\ProyectoFinal I\bin\Debug\DocumentFormat.OpenXml.Framework.xml
