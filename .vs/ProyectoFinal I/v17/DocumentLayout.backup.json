@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Escritorio\\ProyectoFinal I\\",
+  "WorkspaceRootPath": "D:\\Escritorio\\ProyectoFinal I\\proyectoFinal1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24DA93BD-CE9C-49CA-B9BB-44A1EE1246FB}|ProyectoFinal I.csproj|d:\\escritorio\\proyectofinal i\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24DA93BD-CE9C-49CA-B9BB-44A1EE1246FB}|ProyectoFinal I.csproj|d:\\escritorio\\proyectofinal i\\proyectofinal1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24DA93BD-CE9C-49CA-B9BB-44A1EE1246FB}|ProyectoFinal I.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24DA93BD-CE9C-49CA-B9BB-44A1EE1246FB}|ProyectoFinal I.csproj|d:\\escritorio\\proyectofinal i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24DA93BD-CE9C-49CA-B9BB-44A1EE1246FB}|ProyectoFinal I.csproj|D:\\Escritorio\\ProyectoFinal I\\proyectoFinal1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24DA93BD-CE9C-49CA-B9BB-44A1EE1246FB}|ProyectoFinal I.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24DA93BD-CE9C-49CA-B9BB-44A1EE1246FB}|ProyectoFinal I.csproj|d:\\escritorio\\proyectofinal i\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{24DA93BD-CE9C-49CA-B9BB-44A1EE1246FB}|ProyectoFinal I.csproj|D:\\Escritorio\\ProyectoFinal I\\proyectoFinal1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DA93BD-CE9C-49CA-B9BB-44A1EE1246FB}|ProyectoFinal I.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DA93BD-CE9C-49CA-B9BB-44A1EE1246FB}|ProyectoFinal I.csproj|D:\\Escritorio\\ProyectoFinal I\\proyectoFinal1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{24DA93BD-CE9C-49CA-B9BB-44A1EE1246FB}|ProyectoFinal I.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,11 +34,36 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Escritorio\\ProyectoFinal I\\proyectoFinal1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Escritorio\\ProyectoFinal I\\proyectoFinal1\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:21:48.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escritorio\\ProyectoFinal I\\proyectoFinal1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Escritorio\\ProyectoFinal I\\proyectoFinal1\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:51:37.652Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Escritorio\\ProyectoFinal I\\Program.cs",
+              "DocumentMoniker": "D:\\Escritorio\\ProyectoFinal I\\proyectoFinal1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Escritorio\\ProyectoFinal I\\Program.cs",
+              "ToolTip": "D:\\Escritorio\\ProyectoFinal I\\proyectoFinal1\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -45,26 +74,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Escritorio\\ProyectoFinal I\\Form1.cs",
+              "DocumentMoniker": "D:\\Escritorio\\ProyectoFinal I\\proyectoFinal1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Escritorio\\ProyectoFinal I\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAxwBoAAABoAAAAAAAAAA==",
+              "ToolTip": "D:\\Escritorio\\ProyectoFinal I\\proyectoFinal1\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAABUBAAAAAAAAAAArwBwBAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T22:37:17.827Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Escritorio\\ProyectoFinal I\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Escritorio\\ProyectoFinal I\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T22:37:08.916Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
